@@ -1,1 +1,3 @@
-# feb08ass1-ass2
+x=5
+y=3
+print(x==y,x!=y,x>y,x<y,x<=y,x>=y)
