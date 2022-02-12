@@ -23,3 +23,21 @@ elif avg>=40:
    Print('Pass')
 else:
    Print('Fail')
+Output:
+Enter sno
+06
+Enter name
+Sravani
+S1 marks
+99
+S2 marks
+89
+S3 marks
+79
+S4 marks
+69
+S5 marks
+59
+S6 marks
+49
+B grade 
