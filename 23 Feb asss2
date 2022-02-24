@@ -1,0 +1,7 @@
+l=[]
+l.append(2)
+l.append(3)
+l.append(4)
+print(l)
+l.reverse()
+print(l)
